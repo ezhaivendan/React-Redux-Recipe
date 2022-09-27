@@ -1,3 +1,7 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
 .recipe-box-container {
   display: flex;
   width: 960px;
